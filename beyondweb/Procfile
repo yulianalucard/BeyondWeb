@@ -1,1 +1,1 @@
-web: gunicorn beyondweb.wsgi
+web: gunicorn beyondweb.wsgi:application
