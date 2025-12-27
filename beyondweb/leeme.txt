@@ -21,3 +21,11 @@ python manage.py createsuperuser
 git add .
 git commit -m "Descripción"
 git push origin main
+
+
+
+
+dpg-d57ih6ali9vc739h16sg-a:5432
+beyondweb
+beyondweb_user
+Hd3kF4fal3TZWkg0GUviXHW7jb3U0Jbl
